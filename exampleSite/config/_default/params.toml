@@ -62,10 +62,10 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "Welcome **!**"
-title_small = "to Jhon Bravo Blog"
+title_small = "to Jane Melory Blog"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
+content = "I’m 21 years old. I’m a BS Psychology student in my second year at Our Lady of Fatima University."
 button_label = "Know About Me"
 button_link = "about/"
 
@@ -105,24 +105,12 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/melsisthename?mibextid=ZbWKwL"
 
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
 
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://instagram.com/mercenemelory__?igshid=ZDdkNTZiNTM="
 
-[[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
 
-[[social]]
-title = "linkedin"
-icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
