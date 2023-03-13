@@ -46,8 +46,7 @@ footer_content = " Because life is about connections, it’s important to know h
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # copyright
-theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Copyright by 2023"
 
 # 404
 error_404_text = "404 Page Not Found!"
