@@ -40,9 +40,9 @@ no_tags_found = "No Tags Found"
 
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+about_widget_content = "My Name is Jane Melory P. Mercene, and I’m 21 years old. I’m a BS Psychology student in my second year at Our Lady of Fatima University."
 # footer content
-footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
+footer_content = " Because life is about connections, it’s important to know how to deal with people who have various personalities."
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # copyright
@@ -72,7 +72,7 @@ button_link = "about/"
 # Advertise
 [advertisement]
 image = "images/promotion.png"
-link = "https://gethugothemes.com/"
+link = "https://web.facebook.com/melsisthename/"
 
 # cookies
 [cookies]
