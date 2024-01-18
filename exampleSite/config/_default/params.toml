@@ -40,7 +40,7 @@ no_tags_found = "No Tags Found"
 
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "My Name is Jane Melory P. Mercene, and I’m 21 years old. I’m a BS Psychology student in my second year at Our Lady of Fatima University."
+about_widget_content = "My Name is Jane Ava, and I’m 21 years old. I’m a BS Psychology student in my second year at Our Lady of Fatima University."
 # footer content
 footer_content = " Because life is about connections, it’s important to know how to deal with people who have various personalities."
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
